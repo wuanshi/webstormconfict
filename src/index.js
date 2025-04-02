@@ -9,7 +9,7 @@ baseFn()
 add(1, 2) // 12323
 add(1, 2) // 243434
 
-console.log('hello world'); // 23456
+console.log('hello world'); // 12345
 
 console.log('test');
 
