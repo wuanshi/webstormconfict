@@ -6,7 +6,7 @@ function add(a, b) {
 
 baseFn()
 
-add(1, 2)
+add(1, 2) // 12323
 
 console.log('hello world');
 
